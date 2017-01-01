@@ -1,0 +1,12 @@
+[submodule "blog-app"]
+	path = blog-app
+	url = git@github.com:Croissong/blog-app.git
+[submodule "phoenix"]
+	path = phoenix
+	url = git@github.com:Croissong/phoenix.git
+[submodule "koa"]
+	path = koa
+	url = git@github.com:Croissong/mnt-koa.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:Croissong/mnt-blog.git
